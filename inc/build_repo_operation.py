@@ -1,7 +1,6 @@
 import os
 import stat
 import logging
-from distutils.dir_util import copy_tree
 from ebbs import Builder
 
 # Class name is what is used at cli, so we defy convention here in favor of ease-of-use.
